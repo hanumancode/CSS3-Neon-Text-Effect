@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:100&effect=neon");
+body {
+    margin: 0;
+    padding: 0;
+    background: url(background);
+    background-size: cover;
+    font-family: Lato;
+    font-size: 5rem;
+}
+
+div {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
