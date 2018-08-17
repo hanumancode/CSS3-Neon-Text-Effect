@@ -16,5 +16,6 @@ div {
     border: 4px solid #fff;
     /* padding: 20px 50px; */
     border-radius: 10px;
-    box-shadow: 0  0 10px #262626;
+    box-shadow: 0 0 10px #262626, 0 0 30px #262626, inset 0 0 10px #262626,
+        inset 0 0 30px #262626;
 }
